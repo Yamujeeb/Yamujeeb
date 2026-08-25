@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Mujeeb Adewuyi
 
-<!--
-**Yamujeeb/Yamujeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate technology enthusiast with a strong interest in **Cybersecurity**, **Networking**, **Cloud Computing**, and **Software Development**. I enjoy building practical solutions, learning new technologies, and solving challenging problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Networking & Cybersecurity Student
+- 💻 Software Developer
+- 🌐 IT Support & Networking
+- 🔒 Cybersecurity Enthusiast
+- ☁️ Learning Cloud Technologies
+- 🏃 Track & Field Athlete
+
+---
+
+## 🎯 Current Focus
+
+- 🔐 Cybersecurity
+- ☁️ Cloud Computing
+- 🌍 Full Stack Development
+- 🖥️ Network Administration
+- 🛡️ Ethical Hacking
+- 📊 Database Systems
+- 🤖 Automation & Scripting
+---
+
+## 📂 Featured Projects
+
+### 🌐 Web Development
+Modern responsive websites and full-stack applications.
+
+### 🔒 Cybersecurity
+Security tools, penetration testing labs, and networking projects.
+
+### 🗄️ Database Systems
+SQL databases, ER diagrams, normalization, and database applications.
+
+### ⚡ Networking
+Cisco Packet Tracer labs, network automation, and infrastructure projects.
+
+---
+
+## 📜 Certifications
+
+- Cisco Certified Network Associate (CCNA)
+- CompTIA Network+
+- Certified Ethical Hacker (CEH)
+- Microsoft Certifications
+
+---
+
+### ⭐ Thanks for visiting my profile!
+</div>
